@@ -16,11 +16,10 @@ This PDF to Excel Converter is an application developed for educational purposes
 
 ## Usage
 
-1. Run the `CustomPDF2ExcelConverter.application` file by double-clicking it.
-3. Upload the PDF file you wish to convert.
-4. Select the target destination for the converted Excel file.
-5. Click "Convert" and wait for the process to complete.
-6. The converted Excel file will open immediately.
+1. Upload the PDF file you wish to convert.
+2. Select the target destination for the converted Excel file.
+3. Click "Convert" and wait for the process to complete.
+4. The converted Excel file will open immediately.
 
 ## Important Notes
 - For the use of iText7, you must adhere to the AGPLv3 license. More information about the license and its requirements can be found [here](https://itextpdf.com/how-buy/AGPLv3-license).
