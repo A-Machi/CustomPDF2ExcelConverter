@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomPDF2ExcelConverter", "CustomPDF2ExcelConverter\CustomPDF2ExcelConverter.csproj", "{CA9CAF4E-439E-4481-9D43-F7210528B848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPDF2ExcelConverter.Tests", "CustomPDF2ExcelConverter.Tests\CustomPDF2ExcelConverter.Tests.csproj", "{FB3CCB19-E8F4-4ED5-ABF7-F0DE84661C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9CAF4E-439E-4481-9D43-F7210528B848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9CAF4E-439E-4481-9D43-F7210528B848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9CAF4E-439E-4481-9D43-F7210528B848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9CAF4E-439E-4481-9D43-F7210528B848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3CCB19-E8F4-4ED5-ABF7-F0DE84661C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3CCB19-E8F4-4ED5-ABF7-F0DE84661C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3CCB19-E8F4-4ED5-ABF7-F0DE84661C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3CCB19-E8F4-4ED5-ABF7-F0DE84661C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF7225A8-F01B-4F8A-A552-003B6E559AF8}
+	EndGlobalSection
+EndGlobal
